@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/kourmousas-metafores-logo.svg"
+ },
+ "source_md5": "fd1c48869024e7bcb88e465bf770d134",
+ "version": "fb14f28d",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "050d6b488488f353bb17810316ca25c0"
+ ],
+ "made": "2026-11-17"
+}
